@@ -58,6 +58,25 @@ Binary Deep Neural Network</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Model-Quantization-Papers/blob/master/m(30).pdf" style="text-decoration:none;">Binary Neural Networks: A Survey</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Model-Quantization-Papers/blob/master/m(31).pdf" style="text-decoration:none;">Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM</a></li> 
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Model-Quantization-Papers/blob/master/m(32).pdf" style="text-decoration:none;">Integer Quantization For Deep Learning Inference: Principles And Empirical Evaluation</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Model-Quantization-Papers/blob/master/m(33).pdf" style="text-decoration:none;">Adaptive Quantization for Deep Neural Network</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Model-Quantization-Papers/blob/master/m(34).pdf" style="text-decoration:none;">LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Model-Quantization-Papers/blob/master/m(35).pdf" style="text-decoration:none;">Analysis Of Quantized Models</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Model-Quantization-Papers/blob/master/m(36).pdf" style="text-decoration:none;">Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Model-Quantization-Papers/blob/master/m(37).pdf" style="text-decoration:none;">Training Quantized Nets: A Deeper Understanding</a></li>
+
+   
+   
+   
+   
+   
+   
     </ul>
   
   
