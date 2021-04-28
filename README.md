@@ -73,10 +73,6 @@ Binary Deep Neural Network</a></li>
 
    
    
-   
-   
-   
-   
-    </ul>
+</ul>
   
   
